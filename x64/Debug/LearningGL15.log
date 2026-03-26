@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Obsługa używania systemu Windows XP jako docelowego jest przestarzała i nie będzie jej w przyszłych wersjach programu Visual Studio. Zobacz https://go.microsoft.com/fwlink/?linkid=2023588 w celu uzyskania dalszych informacji.
+  CApp.cpp
+c:\users\user\source\repos\learninggl15\capp.cpp(59): warning C4244: "return": konwersja z "WPARAM" do "int", możliwa utrata danych
+  LearningGL15.vcxproj -> C:\Users\user\source\repos\LearningGL15\x64\Debug\LearningGL15.exe

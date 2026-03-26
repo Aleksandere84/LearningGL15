@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Obsługa używania systemu Windows XP jako docelowego jest przestarzała i nie będzie jej w przyszłych wersjach programu Visual Studio. Zobacz https://go.microsoft.com/fwlink/?linkid=2023588 w celu uzyskania dalszych informacji.
+  CGame.cpp
+  Trwa generowanie kodu
+  1 of 48 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  LearningGL15.vcxproj -> C:\Users\user\source\repos\LearningGL15\x64\Release\LearningGL15.exe

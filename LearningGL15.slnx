@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LearningGL15.vcxproj" Id="88633c25-3467-47e9-9ed1-d0398f8999fd" />
+</Solution>
